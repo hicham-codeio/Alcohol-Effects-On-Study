@@ -1,12 +1,55 @@
-# Alcohol Effects On Study Analysis
+# 🎓 Alcohol Effects on Study Analysis
 
-This project explores the relationship between student social factors (like alcohol consumption) and academic performance using machine learning.
+This project analyzes the relationship between alcohol consumption and student academic performance using data analysis and machine learning.
 
-## Structure
-- `data/`: Raw and processed datasets.
-- `models/`: Trained Random Forest model and preprocessors.
-- `app/`: Streamlit dashboard for interactive predictions.
+An interactive Streamlit app is included to explore insights and predict student grades.
 
-## How to run
-1. Install dependencies: `pip install -r requirements.txt` 
-2. Run the app: `streamlit run app/app.py`
+---
+
+## 📊 Dataset
+
+The dataset was obtained from Kaggle:
+https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study
+
+It contains student information such as:
+
+* Demographics (age, gender, family background)
+* Study habits (study time, failures, absences)
+* Social behavior (alcohol consumption, going out)
+* Academic performance (G1, G2, G3)
+
+---
+
+## ⚙️ Tech Stack
+
+* Python * Pandas & NumPy * Scikit-learn * Matplotlib & Seaborn * Streamlit
+
+---
+
+## 📂 Project Structure
+
+* `data/` → datasets
+* `models/` → trained model
+* `app/` → Streamlit app
+
+---
+
+
+
+## 🎯 Objective
+
+* Analyze the impact of alcohol consumption on academic performance
+* Build a predictive model for student grades
+* Provide interactive insights through a dashboard
+
+---
+
+## 🙏 Acknowledgment
+
+This project was developed based on academic work and guidance provided by my professor Mohamed Rida Sahib, whose original analysis and project structure inspired this implementation.
+
+---
+
+## 👤 Author
+
+Hicham Ait Douch
