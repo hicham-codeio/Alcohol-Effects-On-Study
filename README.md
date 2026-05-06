@@ -3,7 +3,7 @@
 This project analyzes the relationship between alcohol consumption and student academic performance using data analysis and machine learning.
 
 An interactive Streamlit app is included to explore insights and predict student grades.
-https://alcohol-effects-on-study-wxixa5uechiwdzqmetcqqt.streamlit.app/
+[https://alcohol-effects-on-study-wxixa5uechiwdzqmetcqqt.streamlit.app/](https://alcohol-effects-on-study-dapxfadohr7bfqwppamsz3.streamlit.app/)
 
 ---
 
